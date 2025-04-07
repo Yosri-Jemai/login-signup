@@ -1,0 +1,7 @@
+body{
+  font-family: -apple-system, BlinkMacSystemFont , Geneva, Tahoma, sans-serif;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(#2A00B7, #42006C);
+}
